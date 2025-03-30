@@ -4,7 +4,8 @@ The first and most basic flutter app.
 
 ## App Demo
 
-![Demo of the Roll Dice App](./examples/example_workflow.gif)
+<img src="./examples/example_workflow.gif" width="30%" />
+
 
 ## Getting Started
 
