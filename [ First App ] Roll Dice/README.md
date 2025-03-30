@@ -1,6 +1,6 @@
-# my_first_app
+# my_first_app [ Roll Dice ]
 
-A new Flutter project.
+The first and most basic flutter app.
 
 ## Getting Started
 
